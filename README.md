@@ -10,3 +10,8 @@ My first repository
 
 - [About Me](about-me.md)
 - [My Favorite Movies](favorites/movies.md)
+
+## Repository Contents
+
+- [About Me](about-me-ver2.md) - Contains my personal introduction.
+- [My Favorite Movies](favorites-ver2/movies.md) - Contains my favorite movies or series.
